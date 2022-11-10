@@ -8,7 +8,7 @@ To develop a convolutional autoencoder for image denoising application.
 
 ## Convolution Autoencoder Network Model
 
-Include the neural network model diagram.
+![image](https://github.com/prathima2002/convolutional-denoising-autoencoder/blob/933f870d12df52225c65c38196e354610c48e730/WhatsApp%20Image%202022-11-08%20at%2018.49.21.jpeg)
 
 ## DESIGN STEPS
 
