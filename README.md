@@ -99,6 +99,7 @@ for i in range(1, n + 1):
 plt.show()
 ```
 ## OUTPUT
+![image](https://github.com/prathima2002/convolutional-denoising-autoencoder/blob/d878a9ba9fa981c0f7064e7f594b6addd5543258/WhatsApp%20Image%202022-11-10%20at%2012.35.26.jpeg)
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 ![image](https://github.com/prathima2002/convolutional-denoising-autoencoder/blob/50126f6d811526c12ec8012f80ef864a26565562/WhatsApp%20Image%202022-11-08%20at%2018.41.19.jpeg)
