@@ -11,14 +11,16 @@ To develop a convolutional autoencoder for image denoising application.
 ![image](https://github.com/prathima2002/convolutional-denoising-autoencoder/blob/933f870d12df52225c65c38196e354610c48e730/WhatsApp%20Image%202022-11-08%20at%2018.49.21.jpeg)
 
 ## DESIGN STEPS
-
+```
 ### STEP 1:
+Download and split the dataset into training and testing datasets
 
 ### STEP 2:
+rescale the data as that the training is made easy
 
 ### STEP 3:
-
-Write your own steps
+create the model for the program , in this experiment we create to networks , one for encoding and one for decoding Write your own steps
+```
 
 ## PROGRAM
 ```
